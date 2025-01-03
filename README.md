@@ -8,7 +8,7 @@ This repository contains the implementation of a Recurrent Neural Network (RNN) 
 
 **Model Training:** Training a simple RNN with embedding layers to classify movie reviews as positive or negative. The model is built using TensorFlow/Keras.
 
-**Prediction: **Making predictions on user-provided text inputs using the trained RNN model.
+**Prediction:** Making predictions on user-provided text inputs using the trained RNN model.
 
 **Streamlit Application:** A user-friendly web application developed using Streamlit that integrates the trained RNN model for real-time sentiment analysis. Users can input movie reviews and get predictions instantly.
 
